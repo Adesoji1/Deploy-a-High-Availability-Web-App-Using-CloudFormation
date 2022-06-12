@@ -17,7 +17,7 @@ An Identity and Access Management (IAM) user or federated credentials into that 
 
 Steps:
 Deploy VPC using CloudFormation
-Deploy Web Application and Infrastructure using CloudFormation . To know how to create a CFN template, visit https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html 
+Deploy Web Application and Infrastructure using CloudFormation . To know how to create a CFN template, visit https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html  or https://docs.aws.amazon.com/codebuild/latest/userguide/cloudformation-vpc-template.html to see samples
 
 Explore the Web Application
 
