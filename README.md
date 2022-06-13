@@ -28,3 +28,5 @@ Explore the Web Application
 Explore the CloudFormation Template
 
 Tear down or Destroy all your resources after approval from udacity to prevent exhaustion of aws billing available billing credit
+
+# Credit is given to well architected labs for guiding me through replicating this content
