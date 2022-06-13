@@ -1,5 +1,5 @@
 # This is a simple test server for use with the Well-Architected labs
-# It simulates an engine for recommending TV shows
+# It simulates an engine for showing Udacity projects
 #
 # This code is only for use in Well-Architected labs
 # *** NOT FOR PRODUCTION USE ***
